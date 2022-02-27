@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The armies indempnity.</title>
+            <author>Jenkins, David, 1582-1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87524</idno>
+            <idno type="STC">Wing J584</idno>
+            <idno type="STC">Thomason E390_10</idno>
+            <idno type="STC">ESTC R201533</idno>
+            <idno type="EEBO-CITATION">99862032</idno>
+            <idno type="PROQUEST">99862032</idno>
+            <idno type="VID">114181</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87524)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114181)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E390[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The armies indempnity.</title>
+                  <author>Jenkins, David, 1582-1663.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated and signed on p. 5: 24. May, 1647. Davjd Jenkins.</note>
+                  <note>Annotation on Thomason copy: "May 31 1647 London".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Amnesty --  England --  Early works to 1800.</term>
+               <term>Treason --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Law and legislation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:114181:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 47 -->
+            <head>The Armies Jndempnity.</head>
+            <p>UPon the publiſhing of the Ordinance of the 22. of this Inſtant <hi>May</hi> for the Indempnity of the Army, certaine Gentlemen well affected to the Peace of the Kingdome, and ſafety of the Army, deſired me to ſet downe in writing, whether by the Law of the Land, the ſaid Ordinance did ſecure them from danger, as to the matters therein mentioned? For whoſe ſatisfaction in a bu<g ref="char:EOLhyphen"/>ſineſſe wherein the lives and fortunes of ſo many men were con<g ref="char:EOLhyphen"/>cerned, and alſo the Peace of the Kingdome involved; I conceived I was bound in duty and Conſcience faithfully and truly to ſet downe what the Law of the Land therein is; which accordingly I have withall ſincerity expreſſed in this following diſcourſe.</p>
+            <p>The danger of the Army by the Law of the Land is apparent <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o all men.
+<note place="margin">25. <hi>Ed.</hi> 3. <hi>Cap.</hi> 2. 11. <hi>Ri.</hi> 2. <hi>Cap.</hi> 3. 1. <hi>Hen.</hi> 4. <hi>Cap.</hi> 10. 1. &amp; 2. <hi>Phi.</hi> &amp; <hi>Mary Cap.</hi> 10. 3. <hi>Pars inſti<g ref="char:EOLhyphen"/>tutes pag.</hi> 22. &amp; 2 <hi>pars inſtituts pag.</hi> 47.48. &amp; 4. <hi>pars inſtituts pag.</hi> 23.48.29<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> It is high treaſon by the Law of the Land to levy warre againſt the King, to compaſſe or immagine his death, or of his Queene, or of his eldeſt Sonne, to counterfeit his money, or his great Seale. They are the words of the Law, other treaſons then are ſpecified in that Act are declared to be no treaſons untill the King and his Parliament ſhall declare otherwiſe, they are the words of the Law.</p>
+            <p>King and Commons, King and Lords, Commons and Lords cannot declare any other thing to be treaſon, then there is decla<g ref="char:EOLhyphen"/>red: as appeares by the Lord Cooke in the places cited in the Margin: a law-booke publiſhed by the order of the Houſe of Commons this Parliament, as appeares in the laſt leafe of the ſecond part of the inſtitutes publiſhed likewiſe by their order.</p>
+            <p>The reſolutions of all the Judges of <hi>England;</hi> upon the ſaid Statute of the 25. <hi>Ed.</hi> 3. (as appeares in the ſaid 3. part inſtitutes
+<pb n="2" facs="tcp:114181:2"/>
+               <!-- PDF PAGE 48 -->Chap.
+<note place="margin">3. <hi>pars inſti<g ref="char:EOLhyphen"/>tutes Cap. treaſon: pag.</hi> 9. &amp; 10.12. <hi>Mr. St.</hi> Iohn <hi>the Soliciter in his ſpeech upon the ar<g ref="char:EOLhyphen"/>raignment of the Earle of</hi> Strafford, <hi>printed by order of the Houſe of Commons pag.</hi> 7.13. 4. <hi>pars inſti<g ref="char:EOLhyphen"/>tutes, Cap. Parliament pag.</hi> 25. 11. <hi>Hen.</hi> 7. <hi>Cap.</hi> 1. <hi>Stamford. lib.</hi> 2. <hi>fol</hi> 99. 18. <hi>Ed.</hi> 3. <hi>Statute at large</hi> 144. 20. <hi>Ed.</hi> 3. <hi>Capa.</hi> 11. <hi>Ri.</hi> 2. <hi>Cap.</hi> 10. 4. <hi>pars inſti<g ref="char:EOLhyphen"/>tutes pag.</hi> 23.48.29. 3. <hi>pars inſti<g ref="char:EOLhyphen"/>tutes pag.</hi> 22. 2. <hi>pars inſti<g ref="char:EOLhyphen"/>tutes</hi> 47.48. 1. <hi>pars inſti<g ref="char:EOLhyphen"/>tutes</hi> 195.</note> High Treaſon) have been that to impriſon the King untill he agree to certaine demandes is high treaſon to ſeiſe his Ports, Forts, Magazine for warre, are high treaſon: to alter the Lawes is high treaſon.</p>
+            <p>The word King in the Statute of 25. <hi>Ed.</hi> 3. <hi>Cap.</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. muſt be underſtood of the Kings naturall perſon: for that perſon can onely dye, have a wife, have a Sonne, and be impriſoned.</p>
+            <p>The priviledge of Parliament protects no man from treaſon or fellony: howbeit he be a member, much leſſe can they protect o<g ref="char:EOLhyphen"/>thers: Thoſe who cannot protect themſelves, have no colour to make Ordinances to protect others who are no members.</p>
+            <p>The Statute of 11. <hi>Hen.</hi> 7. <hi>Cap.</hi> 1. doth by expreſſe words free all perſons who adhere to the King.</p>
+            <p>The Army by an act of Indempnity free themſelves from all thoſe dangers, which an Ordinance can no more do, then repeale all the Lawes of the Land, the whole and ſole power by law to pardon all treaſons and fellonies, being ſolely and wholly in the King as is cleared by the 27. <hi>H.</hi> 8. <hi>Chap.</hi> 24. and the Law of the Land in all times.</p>
+            <p>Having ſhewed the danger of the Army by the Law of the Land, next conſider the Ordinance of the Lords and Commons publiſhed the 22. of <hi>May</hi> inſtant for their Indempnity. By the enſuing diſcourſe it doth appeare they have no Indempnity at all thereby.</p>
+            <p>The Indempnity propoſed by the Ordinance, is for any act done by the Authority of Parliament, or for the ſervice or bene<g ref="char:EOLhyphen"/>fit thereof, and that the Judges and all other Miniſters of Juſtice ſhall allow thereof.</p>
+            <p>This Ordinance cannot ſecure the Army for theſe reaſons.</p>
+            <p>
+               <label>I.</label>
+Their Judges are ſworne to do Juſtice according to the Law of the Land: This Ordinance is no Law of the Land, and there<g ref="char:EOLhyphen"/>fore the Judges muſt be forſworne men, if they obey it, and no man can beleeve they will perjure themſelves ſo palpably and vi<g ref="char:EOLhyphen"/>ſibly to the eye of the world.</p>
+            <p>
+               <label>II.</label>
+If the Judges conceive (as they may) that the taking of other mens horſes or goods is not by the Authority of Parliament, or
+<pb n="3" facs="tcp:114181:2"/>
+               <!-- PDF PAGE 48 -->for the ſervice and benefit thereof, the ſouldier dies for it:
+<note place="margin">
+                  <hi>Prince, caſe,</hi> 8. <hi>reports.</hi>
+               </note> they may ſay to ſteale or robany man of his goods is not for the Parliaments ſervice, but againſt it.</p>
+            <p>
+               <label>III.</label>
+This Ordinance is againſt their Ordinances which expreſ<g ref="char:EOLhyphen"/>ly prohibits plundering, and ſo there is one ordinance againſt another, whereby their Judges have an outlet to proceed up<g ref="char:EOLhyphen"/>on the one or the other, and thereby the Army hath no man<g ref="char:EOLhyphen"/>ner of ſecurity.</p>
+            <p>
+               <label>IIII.</label>
+               <note place="margin">28. <hi>Auguſti.</hi> 1642. <hi>collect of Ordinances firſt part</hi> 565. 592. 605. <hi>ſeverall Or<g ref="char:EOLhyphen"/>dinances.</hi> 4. <hi>pars inſti<g ref="char:EOLhyphen"/>tutes pag.</hi> 1. 3 <hi>pars inſti<g ref="char:EOLhyphen"/>tutes pag.</hi> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2 1 <hi>pars inſti<g ref="char:EOLhyphen"/>tutes pag.</hi> 1. 11. <hi>Hen.</hi> 8. 3. <hi>Dier</hi> 28. <hi>Hen.</hi> 8. <hi>f.</hi> 60 12. <hi>Hen.</hi> 7.20. 1. <hi>pars inſtitutes</hi> 159. <hi>Princes caſe</hi> 8. <hi>pars reports.</hi> 1. <hi>pars in<g ref="char:EOLhyphen"/>ſtitutes</hi> 109 1. <hi>pars inſti<g ref="char:EOLhyphen"/>tutes pag.</hi> 110. 4. <hi>pars inſti<g ref="char:EOLhyphen"/>tutes p.</hi> 49.</note>
+This Ordinance is reſtrained to the Ordinance, ſervice, or benefit of the Parliament. The Lords and Commons make no more a Parliament by the Law of the Land, then a body without a head makes a man, for a Parliament is a body com<g ref="char:EOLhyphen"/>poſed of a King their head, the Lords and Commons, and all make one body, and that is the Parliament and none other, and the Judges may, ought, and I beleeve will according<g ref="char:EOLhyphen"/>ly to their oathes proceede, as not bound at all by this Ordi<g ref="char:EOLhyphen"/>nance. For it is reſtrained to the Ordinance of Parliament, ſervice, or benefit thereof, whereas the two Houſes are not the Parliaments, but onely parts thereof, and by the abuſe and miſunderſtanding of this word Parliament, they have miſerably deceived the people.</p>
+            <p>
+               <label>V.</label>
+The word Parliament is a French word (howbeit ſuch Aſ<g ref="char:EOLhyphen"/>ſemblies were before the Northern conqueſt herein are) and ſignifieth in that language to conſult and treat: that is the ſence of Parlet in the French Tongue. The writ whereby the two Houſes are aſſembled, which is called the writ of Sum<g ref="char:EOLhyphen"/>mons of Parliament at all times, and at this Parliament uſed, and which is the warrant, ground and Foundation of their meeting, is for the Lords of the Houſe of Peers, the Judges and the Kings Councel, to conſult and treat with the King (that is the Parlet) of great concernments touching, 1. The King, 2. The defence of his Kingdome, 3. The defence of the Church of <hi>England.</hi> It cannot be a Parliament that will not parle with the King, but keepe him in priſon, and not ſuffer him to come to them and parle, and therefore the Law, and
+<pb n="4" facs="tcp:114181:3"/>
+               <!-- PDF PAGE 49 -->ſence, and reaſon, informing every man that this is no manner of Parliament (the King with whom they ſhould parle, being ſo reſtrained, that they will not parie with him) the Army hath no manner of ſecurity by this Ordinance. For their In<g ref="char:EOLhyphen"/>demnification refers to that which is not in being, untill the King be at liberty.</p>
+            <p>
+               <label>VI.</label>
+It is more then probable, that their Judges before the laſt Circuit, had inſtructions to the effect of this Ordinance: but they the Judges making conſcience of their oath, laid aſide the ſaid inſtructions, and ought and may, and it is believed, will no more regard this Ordinance, then the ſaid Inſtructi<g ref="char:EOLhyphen"/>ons:
+<note place="margin">
+                  <hi>The common Souldiers ſecond apolo<g ref="char:EOLhyphen"/>gie.</hi> 6 <hi>Grievances of the Army publiſhed</hi> 15. <hi>May inſtant</hi> 3 <hi>Grievan<g ref="char:EOLhyphen"/>ces of colonel Birches Re<g ref="char:EOLhyphen"/>giment.</hi>
+               </note> what was done the laſt Circuit, notwithſtanding the ſaid Inſtructions, the Army well knowes, touching many of their fellow Souldiers.</p>
+            <p>
+               <label>VII.</label>
+The Houſes in their firſt Propoſition to his Majeſty for a ſafe and well-grounded peace ſent to <hi>Newcaſtle,</hi> deſire a par<g ref="char:EOLhyphen"/>don from His Majeſty for themſelves: they who deſire a pardon, cannot grant a pardon (common reaſon dictates this to every man) and therefore that the army ſhould accept an Indemnity from them, who ſeek it for themſelves, or ſhould conceive it of any manner of force, is a fancie, that no man in the whole Army, but may apprehend that it is vain and a meere deluſion.</p>
+            <p>
+               <label>VIII.</label>
+His Majeſty by his gracious Meſſage of the 12, of this in<g ref="char:EOLhyphen"/>ſtant <hi>May,</hi> and publiſhed two dayes ſithence, hath offered an act of oblivion, a generall pardon to all his people; this done the Law doth indemnifie the Army without all manner of ſcruple, for any thing that hath beene done: for it is an Act of Parliament, when the King and two Houſes concur, and binds all men: there is no ſafety by the Ordinance, there is ſafety by an Act of Indemnity; and will not reaſonable men prefer that that is ſafe, before that which is unſafe.</p>
+            <p>
+               <label>IX.</label>
+His Majeſty by his ſaid Letter agrees to pay the arreares of the Army; I am ſure that is a publike debt, and the chie<g ref="char:EOLhyphen"/>feſt
+<pb n="5" facs="tcp:114181:3"/>
+               <!-- PDF PAGE 49 -->and the firſt that by the two houſes ſhould be paid, and before any divident among themſelves, for their bloud, limbes, &amp; lives have put and kept them at reſt in the power they have. So by this concurrence of his Majeſty for your indemnity, and for your arrears, the Army have not an Or<g ref="char:EOLhyphen"/>dinance, or the publike Faith, but the Law of the Land to make ſure unto them their indemnity, for all acts, and for their arreares, and therewith alſo bring peace to the Land.</p>
+            <p>
+               <label>X.</label>
+The Kingdome and People generally deſire theſe things. To ſuch an army juſt and reaſonable things muſt not be de<g ref="char:EOLhyphen"/>nyed, the things formerly propoſed are moſt juſt and reaſo<g ref="char:EOLhyphen"/>nable: you may have them if you will; if you will not, you will render this Kingdome miſerable,
+<note place="margin">
+                  <hi>Mr. Pyms Speech a<g ref="char:EOLhyphen"/>gainſt the E. of Strafford, pag.</hi> 16. 6 <hi>Conſidera<g ref="char:EOLhyphen"/>tion printed by command of the Houſe of Commons.</hi>
+               </note> wherein you will have your ſhares of miſery: the head and the body is ſuch an incorporation as cannot bee diſſolved without the de<g ref="char:EOLhyphen"/>ſtruction of both.</p>
+            <p>I ſay againe, it is a certain truth, this Kingdome without an Act of oblivion, and a generall pardon, and the payment of Souldiers arreares, and a meet regard had to tender con<g ref="char:EOLhyphen"/>ſciences will unavoydably be ruined.</p>
+            <closer>
+               <dateline>
+                  <date>24. May, 1647.</date>
+               </dateline>
+               <signed>DAVJD JENKINS, Priſoner in the Tower of <hi>London.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="document">
+            <pb n="6" facs="tcp:114181:4"/>
+            <!-- PDF PAGE 50 -->
+            <head>25. <hi>Edw.</hi> 3. <hi>Chap.</hi> 2. <hi>A Declaration what Offences ſhall bee adjudged Treaſon.</hi>
+            </head>
+            <p>WHereas divers opinions have been before this time, in what caſe Treaſon ſhall be ſaid, and in what not: The King at the requeſt of the Lords and of the Commons hath made a Declaration in the manner as hereafter follow<g ref="char:EOLhyphen"/>eth: That is to ſay, When a man doth compaſſe, or imagine the death of our Lord the King, or of our Lady the Queene. or of their eldeſt Son and Heire: or if a man d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e violate the Kings companion, or the Kings eldeſt daughter unmarryed, or the wife of the Kings eldeſt ſonne and heire: or if a man do levie war againſt the Lord our King in his Realme, or be adherent to the Kings enemies in his Realm, giving to them aide and comfort in the Realm, or elſe-where, and thereof be probably attainted of open deed by people of their con<g ref="char:EOLhyphen"/>dition; And if a man counterfeit the Kings great or privie Seale, or his Money: and if a man bring f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lſe money into this Realme, counterfeit to the money of <hi>England<g ref="char:punc">▪</g>
+               </hi> and the money called <hi>Lusburgh,</hi> or other like to the ſaid money of <hi>England,</hi> &amp;c.</p>
+         </div>
+         <div type="document">
+            <head>11. <hi>Hen.</hi> 7. <hi>Cap.</hi> 1. <hi>None that ſhall attend upon the King, and doe him true ſervice, ſhall be attainted, or forfeit any thing.</hi>
+            </head>
+            <p>THe King our Soveraign Lord calling to his remem<g ref="char:EOLhyphen"/>brance the duty of allegiance of his Subjects of this his Realm, &amp; that they by reaſon of the ſame are bound to ſerve their Prince and Sover. Lord for the time being in his wars, for the defence of Him and the Land, againſt every rebellion power and might raiſed, reared againſt him, and with him to enter and abide in ſervice in battell, if caſe ſo require, and that for the ſame ſervice what fortune ever fall by chance in the ſame battell againſt the mind and will of the Prince (as in this Land ſometime paſſed hath been ſeene) that it is not reaſonable, but againſt all lawes, reaſon and good con<g ref="char:EOLhyphen"/>ſcience,
+<pb n="7" facs="tcp:114181:4"/>
+               <!-- PDF PAGE 50 -->that the ſaid Subjects going with their Soveraigne Lord in wars, attending upon him in his perſon, or being in o<g ref="char:EOLhyphen"/>ther places by his commandement within this Land or with<g ref="char:EOLhyphen"/>out, any thing ſhould loſe or forfeit, for doing their duty or ſervice of Allegiance. It be therefore ordained, enacted, and e<g ref="char:EOLhyphen"/>ſtabliſhed by the King our Soveraigne Lord, by the advice &amp; aſſent of the Lords ſpirituall and temporall, and the Commons in this preſent Parliament aſſembled, and by authority of the ſame, that from henceforth no manner of perſon or perſons whatſoever he or they be, that attend upon the King and So<g ref="char:EOLhyphen"/>veraign Lord of this Land for the time being, in his perſon, &amp; do him true and faithfull ſervice of allegiance in the ſame, or be in other places by his commandement in his wars, within this Land or without, that for the ſaid deed and true duty of allegiance he or they be in no wiſe conviet or attaint of high treaſon, nor of other offences for tha<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cauſe, by act of Parlia<g ref="char:EOLhyphen"/>ment, or otherwiſe by any proceſſe of Law, whereby he or a<g ref="char:EOLhyphen"/>ny of them ſhall loſe or forfeit life, lands, tenements, rents, poſ<g ref="char:EOLhyphen"/>ſeſſions, hereditaments, goods, chattels, or any other things but to be for that deed and ſervice utterly diſcharged of any vexation, trouble, or loſſe. And if any act or acts, or other pro<g ref="char:EOLhyphen"/>ceſſe of the Law hereafter thereupon for the ſame, happen to be made contrary to this Ordinance, that then that act or acts, or other proceſſe of the Law, whatſoever they ſhall bee, ſtand and be utterly void. Provided alwayes, that no perſon or perſons ſhall take any benefit or advantage by this Act, which ſhall hereafter decline from his or their ſaid allegi<g ref="char:EOLhyphen"/>ance.</p>
+            <p>
+               <hi>Cap.</hi> 24. In the Statute of 27. <hi>H.</hi> 8. I<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is enacted, that no perſon or perſons of what eſtate or degree ſoever they be of, ſhall have any power or authority to pardon or remit any treaſon, murders, manſlaughters, or any kind of Fellonies, &amp;c. but that the K. ſhal have the ſole &amp; whole power &amp; authority thereof united and knit to the Imperiall Crown, as of right it appertaineth, &amp;c. And in the ſame it is enacted further, that none ſhall have power, of what eſtate, degree, or condition ſoever they be, to make Juſtices of Eyre, Juſtices of Aſſize, Juſtices of the Peace, &amp;c. bu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all ſuch Officers and Miniſter
+<pb n="8" facs="tcp:114181:5"/>
+               <!-- PDF PAGE 51 -->ſhall be made by Letters Pattents under the Kings great Seale in the name and by the authority of the King and his Heire<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Succeſſors Kings of this Realme.</p>
+            <p>In the firſt yeare of Queen <hi>Mary,</hi> and the firſt Chapter, It is enacted by the Queen, with the conſent of the Lords and Gommons, That no deed, or offence by Act of Parliament, made treaſon, ſhall be taken, deemed, or adjudged to bee high treaſon, but only ſuch as be declared and expreſſed to be trea<g ref="char:EOLhyphen"/>ſon by the Act of Parliament, made 25. <hi>Ed.</hi> 3. <hi>cap.</hi> 2. before mentioned.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
